@@ -14,6 +14,5 @@ http://www.epa.gov/ttn/chief/eiinformation.html
 ### R script 
 
 The script project2.R will answer the questions are presented in knit project.Rmd.
-The knit project.html file provides the output from the project.
 
 
